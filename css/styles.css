@@ -12,7 +12,7 @@ ul,ol {
     font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1,17;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -23,7 +23,7 @@ ul,ol {
     color: #2e2f42;
         font-size: 16px;
         font-weight: 500;
-        line-height: 1.5;
+        line-height: 1.5px;
         letter-spacing: 0.02em;
     }
 .nav-link:hover,
@@ -37,7 +37,7 @@ ul,ol {
     color: #434455;
         font-size: 16px;
         line-height: 1.5px;
-        letter-spacing: 0.2em;
+        letter-spacing: 0.02em;
 }
 .address-link:hover,
 .address {
@@ -86,9 +86,7 @@ p {
 .text {
     background-color:#2E2F42;
     color: #FFF;
-    width: 1440px;
-        height: 312px;
-        flex-shrink: 0;
+    flex-shrink: 0;
        
 }
 .logo-footer {
