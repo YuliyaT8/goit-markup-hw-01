@@ -23,7 +23,7 @@ ul,ol {
     color: #2e2f42;
         font-size: 16px;
         font-weight: 500;
-        line-height: 1.5px;
+        line-height: 1.5;
         letter-spacing: 0.02em;
     }
 .nav-link:hover,
@@ -36,20 +36,33 @@ ul,ol {
 .address-link {
     color: #434455;
         font-size: 16px;
-        line-height: 1.5px;
+        line-height: 1.5;
         letter-spacing: 0.02em;
 }
 .address-link:hover,
 .address {
-    color: #434455;
+    color: #404bbf;
 }
-h1 {
+.section {
 background: #2E2F42;
-color: #FFF;   
+color: #FFF;
+font-size: 56px;
+line-height: 1.07;
+text-align: center;
+letter-spacing: 0.02em;
 }
 button {
+    cursor: pointer
     color:#FFF;
     background: #4D5AE5;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+}
+button hover,
+button focus {
+color: #404BBF;
 }
 h3 {
     font-family: Roboto;sans-serif;
