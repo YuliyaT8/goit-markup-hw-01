@@ -17,7 +17,7 @@ ul,ol {
     text-transform: uppercase;
 }
 .logo-part {
-    color: #F4F4FD;
+    color: #2E2F42;
 }
 .nav-link {
     color: #2e2f42;
@@ -101,7 +101,7 @@ p {
             letter-spacing: 0.03em;
             text-transform: uppercase;
 }
-.logo-part {
+.logo-partt {
     color: #F4F4FD;
     font-family: Raleway;
     sans-serif;
