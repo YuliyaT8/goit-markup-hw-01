@@ -45,7 +45,6 @@ ul,ol {
 }
 h1 {
 background: #2E2F42;
-padding: 188px 472px;
 color: #FFF;   
 }
 button {
@@ -121,6 +120,6 @@ p {
         letter-spacing: 0.02em;
 }        
 
-footer {
+.footer {
 background-color:#2E2F42;
 }
