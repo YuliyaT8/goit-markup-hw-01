@@ -40,10 +40,10 @@ ul,ol {
         letter-spacing: 0.02em;
 }
 .address-link:hover,
-.address {
+.address :focus  {
     color: #404bbf;
 }
-.section {
+h1 {
 background: #2E2F42;
 color: #FFF;
 font-size: 56px;
@@ -52,7 +52,7 @@ text-align: center;
 letter-spacing: 0.02em;
 }
 button {
-    cursor: pointer
+    cursor: pointer;
     color:#FFF;
     background: #4D5AE5;
     font-size: 16px;
@@ -60,12 +60,12 @@ button {
     line-height: 1.5;
     letter-spacing: 0.04em;
 }
-button hover,
-button focus {
+.btn hover,
+.btn focus {
 color: #404BBF;
 }
-h3 {
-    font-family: Roboto;sans-serif;
+.title {
+    font-family: Roboto; sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
@@ -86,12 +86,9 @@ h2 {
 img {
     background-color: #FFF;
 }
-p {
+ .middle {
     color: #434455;
-    font-family: Roboto;sans-serif;
         font-size: 16px;
-        font-style: normal;
-        font-weight: 400;
         line-height: 1.5px;
         letter-spacing: 0.02em;
 }
@@ -118,7 +115,7 @@ p {
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1.16px;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -129,7 +126,7 @@ p {
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
-        line-height: 1.5px;
+        line-height: 1.5;
         letter-spacing: 0.02em;
 }        
 
