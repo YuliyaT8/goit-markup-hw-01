@@ -96,9 +96,14 @@ img {
     background-color:#2E2F42;
     color: #FFF;
     flex-shrink: 0;
-       
 }
-.logo-footer {
+     .team-p {
+            color: #434455;
+            font-size: 16px;
+            line-height: 1.5;
+            letter-spacing: 0.02em;
+        }
+ .logo-footer {
     color: #4D5AE5;
    font-family: Raleway;sans-serif;
             font-size: 18px;
