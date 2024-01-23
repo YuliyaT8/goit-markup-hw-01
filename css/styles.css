@@ -45,11 +45,13 @@ ul,ol {
 }
 .start {
 background: #2E2F42;
-color: #FFF;
-font-size: 56px;
-line-height: 1.07;
-text-align: center;
-letter-spacing: 0.02em;
+}
+.solutions {
+    color: #FFF;
+        font-size: 56px;
+        line-height: 1.07;
+        text-align: center;
+        letter-spacing: 0.02em;
 }
 .cursor-pointer {
     cursor: pointer;
