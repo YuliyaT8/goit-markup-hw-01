@@ -63,7 +63,7 @@ background: #2E2F42;
     letter-spacing: 0.04em;
 }
 .cursor-pointer:hover,
-.cursor-pointer:focus{
+.cursor-pointer:focus {
    color: #404BBF;
 }
 .title {
