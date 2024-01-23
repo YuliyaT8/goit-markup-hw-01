@@ -109,6 +109,9 @@ img {
     color: #FFF;
     flex-shrink: 0;
 }
+.bak {
+    background-color: #FFFFFF;
+}
     
  .team-p {
     color: #434455;
